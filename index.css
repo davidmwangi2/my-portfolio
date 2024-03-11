@@ -1,0 +1,39 @@
+header{
+    color: antiquewhite;
+    text-align: center;
+    background-color: blue;
+    font-size: xx-large;
+}
+
+h2{
+    font-size: larger;
+}
+
+nav{
+    color: white;
+    text-align: center;
+    background-color: black;
+    word-spacing: 3cm;
+    font-size: xx-large;
+    font-style: normal;
+    line-height: 3;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    font-size: xx-large;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+h4 {
+    font-size: xx-large;
+}
+
+h5 {
+    font-size: xx-large;
+}
