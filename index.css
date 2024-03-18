@@ -41,32 +41,36 @@ h7 {
 h8 {
     font-size: xx-large;
 }
-
-body {
-    background-size: cover;
-    background-repeat: no-repeat;
+body{
     background-position: center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .About {
     color: white;
+    font-size: x-large;
 }
 
 .Hobbies {
     color: white;
+    font-size: x-large;
 }
 
 .Spirit {
     color: white;
+    font-size: x-large;
 }
 
 .Projects {
     color: white;
+    font-size: x-large;
 }
 
 .Contact {
     color: white;
+    font-size: x-large;
 }
 
 footer {
