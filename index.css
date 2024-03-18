@@ -10,18 +10,12 @@ h2 {
 }
 
 nav {
-    color:white;
+    color: white;
     text-align: center;
     word-spacing: 3cm;
     font-size: xx-large;
     font-style: normal;
     line-height: 3;
-}
-
-footer {
-    color: white;
-    text-align: center;
-    font-size: xx-large;
 }
 
 h3 {
@@ -30,7 +24,6 @@ h3 {
 
 h6 {
     font-size: xx-large;
-    text-align: ;
 }
 
 h4 {
@@ -40,30 +33,44 @@ h4 {
 h5 {
     font-size: xx-large;
 }
-h7{
+
+h7 {
     font-size: xx-large;
 }
-h8{
+
+h8 {
     font-size: xx-large;
 }
-body{
+
+body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
-.About{
-    color:white;
-}
-.Hobbies{
+
+.About {
     color: white;
 }
-.Spirit{
+
+.Hobbies {
     color: white;
 }
-.Projects{
+
+.Spirit {
     color: white;
 }
-.Contact{
+
+.Projects {
     color: white;
+}
+
+.Contact {
+    color: white;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
 }
