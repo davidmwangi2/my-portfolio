@@ -78,3 +78,6 @@ footer {
     text-align: center;
     font-size: xx-large;
 }
+img{
+    border-radius: 50%;
+}
